@@ -1,7 +1,7 @@
 function Display(){
-    n=3;
+    var n=3;
     console.log("Square Of a Number");
-    a=Square(n);
+    var a=Square(n);
     console.log(a);
 }
 
