@@ -39,7 +39,7 @@ function StrCon(str,str1){
     return str.concat(str1);
 }
 function StrInx(str1){
-    return str1.indexOf("asdfg");
+    return str1.indexOf("Again");
 }
 function StrLen(str1){
     return str1.length;
